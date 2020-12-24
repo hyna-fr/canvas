@@ -1,0 +1,10 @@
+body {
+    background-image: url("sky.jpg");
+    background-size: cover;
+    background-repeat: no-repeat ;
+    margin: 0px;
+}
+
+#myCanvas {
+    border: 1px solid #000000;
+}
